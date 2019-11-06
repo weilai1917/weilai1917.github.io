@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "简爱冒险使用手册"
+title: 简爱冒险使用手册
 date: 2019-11-05 17:00:20 +0300
-description: "韩服冒险岛登陆器使用手册." 
+description: 韩服冒险岛登陆器使用手册.
 img: i-rest.jpg 
 fig-caption: 
 tags: [韩服, 冒险岛, 登陆器]

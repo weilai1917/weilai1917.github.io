@@ -634,6 +634,12 @@
 .fa-github:before {
   content: "\f09b";
 }
+.fa-cnblog:before {
+  content: "\f37d"
+}
+.fa-jianshu:before {
+  content: "\f518"
+}
 .fa-unlock:before {
   content: "\f09c";
 }

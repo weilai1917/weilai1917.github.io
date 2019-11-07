@@ -886,6 +886,7 @@ table tfoot td {
 .wrapper {
   max-width: 1250px;
   position: relative;
+  margin: auto;
 }
 
 .post, .article-page {
@@ -928,7 +929,6 @@ table tfoot td {
           justify-content: space-between;
   position: fixed;
   top: 0;
-  left: 0;
   bottom: 0;
   width: 240px;
   height: 100%;

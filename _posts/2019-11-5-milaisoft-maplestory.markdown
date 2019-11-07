@@ -9,7 +9,7 @@ fig-caption:
 tags: [韩服, 冒险岛, Naver, 登录器]
 ---
 
-<center><p> ![ ]({{site.baseurl}}/assets/img/milaisoft-maplestory/maplestory.png) </p></center>
+<center> ![ ]({{site.baseurl}}/assets/img/milaisoft-maplestory/maplestory.png) </center>
 
 
 ## 首先关注

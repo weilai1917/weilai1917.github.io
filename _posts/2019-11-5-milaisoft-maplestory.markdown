@@ -92,4 +92,7 @@ NGM更新了，更新下NGMDLL64，而且网络访问要把NGM64.exe加入到网
 
 ![ ]({{site.baseurl}}/assets/img/milaisoft-maplestory/16.png)
 
+### 8. 游戏无法运行，日志最后一行ret:3221684417
+
+没错，请先检查自己的代理情况，自行检查是不是可以正常启动游戏。
 
